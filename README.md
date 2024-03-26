@@ -3,6 +3,7 @@
 I'm passionate about data in all its forms. Whether it's analyzing, visualizing, or making data-driven decisions, I love diving into the world of data. 
 
 - 🎓 I hold a Bachelor's degree in Industrial Engineering.
+- And studying M.Sc Industrial Engineering (Data Analysis)
 
 ## Interests
 
